@@ -11,21 +11,21 @@ import androidx.appcompat.app.AppCompatActivity
 
 class LoginActivity : AppCompatActivity() {
 
-    private lateinit var usernameEditText: EditText
-    private lateinit var passwordEditText: EditText
-    private lateinit var loginButton: Button
+    //private lateinit var usernameEditText: EditText
+    //private lateinit var passwordEditText: EditText
+    //private lateinit var loginButton: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
         // Initialize UI elements
-        /*usernameEditText = findViewById(R.id.usernameEditText)
-        passwordEditText = findViewById(R.id.passwordEditText)
-        loginButton = findViewById(R.id.loginButton)
+        //usernameEditText = findViewById(R.id.usernameEditText)
+        //passwordEditText = findViewById(R.id.passwordEditText)
+        //loginButton = findViewById(R.id.loginButton)
 
         // Set click listener for the login button
-        loginButton.setOnClickListener {
+        /*loginButton.setOnClickListener {
             // Get the entered username and password
             val username = usernameEditText.text.toString()
             val password = passwordEditText.text.toString()
@@ -35,7 +35,7 @@ class LoginActivity : AppCompatActivity() {
 
             if (isAuthenticated) {
                 // Authentication successful, navigate to the next activity
-                val intent = Intent(this, HomeActivity::class.java)
+                //val intent = Intent(this, HomeActivity::class.java)
                 startActivity(intent)
                 finish() // Close the LoginActivity
             } else {
@@ -48,6 +48,6 @@ class LoginActivity : AppCompatActivity() {
     // Replace this with your actual authentication logic
     private fun authenticateUser(username: String, password: String): Boolean {
         // Example: Check if username and password match a valid user
-        return username == "user" && password == "password"*/
+        return username == "user" && password == "password" */
     }
 }
