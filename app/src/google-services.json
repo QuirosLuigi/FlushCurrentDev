@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401616454526",
+    "project_id": "flush-9b85b",
+    "storage_bucket": "flush-9b85b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401616454526:android:665523adf994b8a003292f",
+        "android_client_info": {
+          "package_name": "com.quiros.flush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401616454526-47253mogm0utgf8jvq68coq14lumjfar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bnVE_9YjCGNK702mXD0C63cUmwzKMyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401616454526-47253mogm0utgf8jvq68coq14lumjfar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
