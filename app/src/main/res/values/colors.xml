@@ -2,6 +2,8 @@
 <resources>
     <color name="PrimaryG1">#43B3AE</color>
     <color name="PrimaryG2">#3EB489</color>
+    <color name="Accent1">#017B4F</color>
+    <color name="ComplementA">#82C2AC</color>
     <color name="Complement1">#b4523e</color>
     <color name="Complement2">#b48d3e</color>
     <color name="Complement3">#633eb4</color>
